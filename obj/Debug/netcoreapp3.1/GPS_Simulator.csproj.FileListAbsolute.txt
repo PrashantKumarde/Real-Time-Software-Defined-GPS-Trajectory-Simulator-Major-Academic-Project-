@@ -1,0 +1,7 @@
+C:\Users\ASUS\Documents\minor project\GPS_Simulator\obj\Debug\netcoreapp3.1\GPS_Simulator.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\minor project\GPS_Simulator\obj\Debug\netcoreapp3.1\GPS_Simulator.Form1.resources
+C:\Users\ASUS\Documents\minor project\GPS_Simulator\obj\Debug\netcoreapp3.1\GPS_Simulator.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\minor project\GPS_Simulator\obj\Debug\netcoreapp3.1\GPS_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\minor project\GPS_Simulator\obj\Debug\netcoreapp3.1\GPS_Simulator.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\minor project\GPS_Simulator\obj\Debug\netcoreapp3.1\GPS_Simulator.AssemblyInfo.cs
+C:\Users\ASUS\Documents\minor project\GPS_Simulator\obj\Debug\netcoreapp3.1\GPS_Simulator.csproj.CoreCompileInputs.cache

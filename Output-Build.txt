@@ -1,0 +1,6 @@
+﻿Build started at 03:42 AM...
+1>------ Build started: Project: GPS_Simulator, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>GPS_Simulator -> C:\Users\ASUS\Documents\minor project\GPS_Simulator\bin\Debug\net6.0-windows7.0\GPS_Simulator.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 03:42 AM and took 00.354 seconds ==========
